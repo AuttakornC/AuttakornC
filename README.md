@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**AuttakornC/AuttakornC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there!!
 
-Here are some ideas to get you started:
+My name is **Auttakorn Camsoi**. I'm a **Computer Science Student** at **Chiang Mai University**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Skill
+- **Frontend**
+  - HTML
+  - Javascript
+  - CSS
+  - ReactJS
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,react&perline=4)](https://skillicons.dev)
+- **Backend**
+  - NodeJS
+    - ExpressJS
+  - Golang
+    - GIN
+    - Gorilla Mux
+  - Python
+    - Flask
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,go,flask&perline=4)](https://skillicons.dev)
+
+## Project
+- **SWKAffairs** [*link to*](https://swkaffairs.com)
+- **YP Enterprise Solution** [*link to*](https://ypenterprisesolution.com)
