@@ -9,6 +9,7 @@ My name is **Auttakorn Camsoi**. I'm a **Computer Science Student** at **Chiang 
   - Javascript
   - CSS
   - ReactJS
+
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,react&perline=4)](https://skillicons.dev)
 - **Backend**
   - NodeJS
@@ -18,6 +19,7 @@ My name is **Auttakorn Camsoi**. I'm a **Computer Science Student** at **Chiang 
     - Gorilla Mux
   - Python
     - Flask
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,go,flask&perline=4)](https://skillicons.dev)
 
 ## Project
