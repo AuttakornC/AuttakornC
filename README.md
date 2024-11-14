@@ -3,6 +3,11 @@
 
 My name is **Auttakorn Camsoi**. I'm a **Computer Science Student** at **Chiang Mai University**.
 
+ ## Interesting
+ - **Frontend Developer**
+ - **Backend Developer**
+ - **Fullstack Developer**
+
  ## Skill
 - **Frontend**
   - HTML
