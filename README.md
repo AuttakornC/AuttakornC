@@ -46,6 +46,10 @@ I'm currently working at **[SmartSoft Asia](https://www.smartsoftasia.com)**.
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,prisma&perline=4)](https://skillicons.dev)
 
+### AI Tools
+- **Claude**
+- **Antigravity**
+
 ---
 
 ## 🚀 Projects
