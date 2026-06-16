@@ -38,7 +38,7 @@ I'm currently working at **[SmartSoft Asia](https://www.smartsoftasia.com)**.
 - **Python**
   - Flask
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,hono,go,flask&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,go,flask&perline=4)](https://skillicons.dev)
 
 ### Database & ORM
 - **PostgreSQL**
