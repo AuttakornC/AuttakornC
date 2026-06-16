@@ -3,6 +3,8 @@
 
 I'm a **Computer Science Graduate** from **Chiang Mai University** with a passion for developing web and mobile applications that make a real impact. I thrive on creating tools that streamline tasks and improve user experiences—because I believe technology should make life easier.
 
+I'm currently working at **[SmartSoft Asia](https://www.smartsoftasia.com)**.
+
 ---
 
 ## 🌟 What I Love to Do:
